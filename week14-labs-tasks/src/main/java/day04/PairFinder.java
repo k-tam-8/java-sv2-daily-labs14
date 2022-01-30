@@ -16,10 +16,11 @@ public class PairFinder {
             }
             System.out.println(numberMap);
         }
-        int sum = 0;
+/*        int sum = 0;
         for (int i : numberMap.values()) {
             sum += i / 2;
         }
-        return sum;
+        return sum;*/
+        return numberMap.values().stream().mapToInt(i ->i/2).sum();
     }
 }
