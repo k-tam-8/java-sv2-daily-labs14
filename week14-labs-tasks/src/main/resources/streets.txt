@@ -4,8 +4,11 @@ Kossuth 0
  Petofi 0
  Kossuth 1
  Kossuth 1
+  Széchenyi 1
  Kossuth 1
  Petofi 0
  Petofi 1
+  Széchenyi 1
  Kossuth 1
  Petofi 0
+ Széchenyi 0
